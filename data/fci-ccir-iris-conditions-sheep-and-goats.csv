@@ -1,0 +1,35 @@
+Area,Condition
+Offal,Pneumonia Mycoplasma like
+Offal,Pneumonia Pasteurella like
+Offal,Lung abscesses
+Offal,Lung worm
+Offal,Hydatid cyst/s
+Offal,Fluke mature
+Offal,Fluke immature
+Offal,Cysticercus tenuicollis
+Offal,Historic scarring
+Offal,Cysticercus ovis
+Offal,Fluke immature
+Offal,Contamination
+Offal,Other
+Carcase,Abscess Neck
+Carcase,Abscess Forequarters
+Carcase,Abscess Hindquarters
+Carcase,Bruising ? traumatic
+Carcase,Bruising ? wool pull
+Carcase,Joint lesions
+Carcase,Cysticercus ovis
+Carcase,Hydatid cyst/s
+Carcase,Contamination
+Carcase,Other
+Total Rejection,Septicaemia/Fever 
+Total Rejection,Jaundice
+Total Rejection,Contamination (as per FSA procedures)
+Total Rejection,Cysticercus ovis (Generalised)
+Total Rejection,Hydatidosis
+Total Rejection,Emaciation/Generalised Oedema
+Total Rejection,Multiple abscesses/ Pyaemia 
+Total Rejection,Generalised Tuberculosis 
+Total Rejection,Polyarthritis
+Total Rejection,Contamination
+Total Rejection,Other
